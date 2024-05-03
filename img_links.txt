@@ -1,0 +1,29 @@
+app store
+"https://storage.yandexcloud.net/simple-home-service-dev/images/9435699c-83e7-4adb-bdec-e2ece35b8e37.png"
+
+clock
+"https://storage.yandexcloud.net/simple-home-service-dev/images/8e680154-7090-4e15-9250-d750515ac2af.png"
+
+email
+"https://storage.yandexcloud.net/simple-home-service-dev/images/e5f8141e-9ab3-49f9-a288-3e00efc22eb6.png"
+
+GooglePlay_ru
+"https://storage.yandexcloud.net/simple-home-service-dev/images/bc0b8991-848c-4a84-ba79-1a9bf3663ec5.png"
+
+Logo
+"https://storage.yandexcloud.net/simple-home-service-dev/images/1b981d72-9540-4e49-a777-ff1a44379b11.png"
+
+pass
+"https://storage.yandexcloud.net/simple-home-service-dev/images/c58e491f-f643-4b87-90fb-b4f8d7373952.png"
+
+phone_icon
+"https://storage.yandexcloud.net/simple-home-service-dev/images/e4e458d6-4cd6-42b0-9232-c844b958b11d.png"
+
+service request
+"https://storage.yandexcloud.net/simple-home-service-dev/images/fdf6ccf0-2737-4a66-b371-d59596639390.png"
+
+user
+"https://storage.yandexcloud.net/simple-home-service-dev/images/3d167776-6374-4b0b-a377-c1641fcd7269.png"
+
+work space
+"https://storage.yandexcloud.net/simple-home-service-dev/images/cd76e30e-a9e2-4415-957b-2e249f5b3920.png"
