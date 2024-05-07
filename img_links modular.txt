@@ -1,32 +1,38 @@
 app store
-"https://storage.yandexcloud.net/simple-home-service-dev/images/9435699c-83e7-4adb-bdec-e2ece35b8e37.png"
-
-clock
-"https://storage.yandexcloud.net/simple-home-service-dev/images/9a881077-f5ad-4e28-8ec0-cfa029d2be6b.png"
-
-email
-"https://storage.yandexcloud.net/simple-home-service-dev/images/ebb7860b-9403-4553-80c6-5e3bbbe42384.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/d42d00ef-4d97-440b-93c2-af8b1427b181.png
 
 GooglePlay_ru
-"https://storage.yandexcloud.net/simple-home-service-dev/images/bc0b8991-848c-4a84-ba79-1a9bf3663ec5.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/58747149-38e5-42e7-851c-b8f64aa63b93.png
+
+clock
+https://storage.yandexcloud.net/simple-home-service-dev/images/888c9d4e-dc57-4104-b3d5-25bcaf6689dd.png
+
+email
+https://storage.yandexcloud.net/simple-home-service-dev/images/b72a9f93-288a-485d-949f-8aced9cbb977.png
+
+
 
 Logo
 "https://storage.yandexcloud.net/simple-home-service-dev/images/2e7ed447-010f-4dd3-bff6-75c6598966f4.png"
 
 pass
-"https://storage.yandexcloud.net/simple-home-service-dev/images/e87b832e-00e2-4283-9c52-e7cc178f1661.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/04c46464-47c3-4bfd-ab96-1e5f04a1fcfb.png
 
 phone_icon
-"https://storage.yandexcloud.net/simple-home-service-dev/images/8ac80de7-5b6d-466a-a207-259e2fa98682.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/562cf82a-db18-4af3-acaa-c23b394af17e.png
 
 service request
-"https://storage.yandexcloud.net/simple-home-service-dev/images/57224721-52b1-4567-b1ea-787c1cb13ebc.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/17af476c-8c50-462d-b682-ab52a2d7200e.png
 
 user
-"https://storage.yandexcloud.net/simple-home-service-dev/images/736c397d-d50a-4d99-bd7a-e69f46a0cdb2.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/5cc8b6d4-e4c0-4778-8c2f-6033d21debb6.png
 
 work space
-"https://storage.yandexcloud.net/simple-home-service-dev/images/c729f1f2-3680-416e-9bc7-66b0a24ee3d5.png"
+https://storage.yandexcloud.net/simple-home-service-dev/images/967160ce-9e04-4b15-9350-0d62c8165e78.png
+
+
+
+
 
 Web version
 https://modular.app.simpleservice.tech/client/login
