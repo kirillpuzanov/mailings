@@ -4,6 +4,171 @@ https://storage.yandexcloud.net/simple-home-service-dev/images/d42d00ef-4d97-440
 GooglePlay_ru
 https://storage.yandexcloud.net/simple-home-service-dev/images/58747149-38e5-42e7-851c-b8f64aa63b93.png
 
+
+
+
+
+
+app store EN
+"https://storage.yandexcloud.net/simple-home-service-dev/images/cab8a57c-904c-4410-bef4-88d600d7fcc7.png"
+
+GooglePlay_ EN
+"https://storage.yandexcloud.net/simple-home-service-dev/images/87ec5a42-1dcd-4bc3-928c-18083f0bc7c2.png"
+
+
+footer 
+
+          <tr>
+            <td style="padding: 0; border-collapse: collapse">
+              <table
+                bgcolor="#f2f2f7"
+                align="center"
+                border="0"
+                width="100%"
+                cellspacing="0"
+                cellpadding="0"
+                role="presentation"
+                style="
+                  border-spacing: 0;
+                  border-collapse: collapse;
+                  margin: 0;
+                  padding: 0;
+                  width: 100%;
+                  border-radius: 16px;
+                  mso-cellspacing: 0;
+                  mso-padding-alt: 0;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  background-color: #f2f2f7;
+                "
+              >
+                <tr>
+                  <td
+                    style="
+                      padding: 0;
+                      border-collapse: collapse;
+                      font-weight: 400;
+                      font-size: 14px;
+                      font-family: 'Commissioner', sans-serif, Arial, Helvetica;
+                      padding-top: 16px;
+                      padding-bottom: 12px;
+                    "
+                    align="center"
+                  >
+                    Download our mobile app
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding: 0; border-collapse: collapse; padding-bottom: 12px">
+                    <table
+                      cellpadding="0"
+                      cellspacing="0"
+                      width="100%"
+                      style="
+                        border-spacing: 0;
+                        mso-cellspacing: 0;
+                        mso-padding-alt: 0;
+                        border-collapse: collapse;
+                        mso-table-lspace: 0pt;
+                        mso-table-rspace: 0pt;
+                        max-width: 184px;
+                      "
+                      align="center"
+                    >
+                      <tr>
+                        <td style="padding: 0; border-collapse: collapse; text-align: left">
+                          <a
+                            href="https://apps.apple.com/ru/app/simple-servic%D0%B5/id1617647308"
+                            target="_blank"
+                            style="color: #000000; font-size: 16px; padding: 0"
+                          >
+                            <img
+                              width="84"
+                              height="30"
+                              src="https://storage.yandexcloud.net/simple-home-service-dev/images/cab8a57c-904c-4410-bef4-88d600d7fcc7.png"
+                              alt="AppStore_ru"
+                              style="
+                                outline: none;
+                                text-decoration: none;
+                                border: none;
+                                -ms-interpolation-mode: bicubic;
+                                margin: 0;
+                                padding: 0;
+                                display: inline-block;
+                                max-width: 100% !important;
+                                width: 84px;
+                                height: 30px;
+                              "
+                            />
+                          </a>
+                        </td>
+                        <td style="padding: 0; border-collapse: collapse; text-align: right">
+                          <a
+                            href="https://play.google.com/store/apps/details?id=com.servicesimplehome&hl=ru&gl=US"
+                            target="_blank"
+                            style="color: #000000; font-size: 16px; padding: 0"
+                          >
+                            <img
+                              width="84"
+                              height="30"
+                              src="https://storage.yandexcloud.net/simple-home-service-dev/images/87ec5a42-1dcd-4bc3-928c-18083f0bc7c2.png"
+                              alt="GooglePlay_ru"
+                              style="
+                                outline: none;
+                                text-decoration: none;
+                                border: none;
+                                -ms-interpolation-mode: bicubic;
+                                margin: 0;
+                                padding: 0;
+                                display: inline-block;
+                                max-width: 100% !important;
+                                width: 84px;
+                                height: 30px;
+                              "
+                            />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="center"
+                    style="
+                      padding: 0;
+                      border-collapse: collapse;
+                      font-weight: 400;
+                      font-size: 12px;
+                      line-height: 24px;
+                      text-align: center;
+                      letter-spacing: 0.02px;
+                      padding-bottom: 10px;
+                      text-transform: uppercase;
+                    "
+                  >
+                    <p
+                      style="
+                        color: #000000;
+                        font-size: 16px;
+                        outline: none;
+                        text-decoration: none;
+                        margin: 0;
+                        padding: 0;
+                        font-family: 'Commissioner', sans-serif, Arial, Helvetica;
+                      "
+                    >
+                      SIMPLE SERVICE, 2024
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+
+
+
 clock
 https://storage.yandexcloud.net/simple-home-service-dev/images/009672a6-50ca-40dd-8d2c-a29f306f09ec.png
 
