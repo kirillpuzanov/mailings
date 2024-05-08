@@ -16,8 +16,6 @@ GooglePlay_ EN
 "https://storage.yandexcloud.net/simple-home-service-dev/images/87ec5a42-1dcd-4bc3-928c-18083f0bc7c2.png"
 
 
-footer 
-
           <tr>
             <td style="padding: 0; border-collapse: collapse">
               <table
