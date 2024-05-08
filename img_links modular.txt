@@ -13,7 +13,7 @@ https://storage.yandexcloud.net/simple-home-service-dev/images/b72a9f93-288a-485
 
 
 Logo
-"https://storage.yandexcloud.net/simple-home-service-dev/images/2e7ed447-010f-4dd3-bff6-75c6598966f4.png"
+"https://storage.yandexcloud.net/simple-home-service-dev/images/5f3a942f-19d4-47cd-bc39-f0487d0c98e2.png" width='116px'
 
 pass
 https://storage.yandexcloud.net/simple-home-service-dev/images/04c46464-47c3-4bfd-ab96-1e5f04a1fcfb.png
